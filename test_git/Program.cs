@@ -22,6 +22,10 @@ namespace test_git
                 Console.WriteLine("XD");
                 Console.WriteLine();
             }
+            else if (txt == "cheval")
+            {
+
+            }
             if (txt != "stop")
             {
                 goto cheval;
